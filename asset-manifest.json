@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-84-react-node-SonGlad/static/css/main.1a24fdc4.css",
-    "main.js": "/fs-84-react-node-SonGlad/static/js/main.f42ea014.js",
+    "main.js": "/fs-84-react-node-SonGlad/static/js/main.b1cd98c1.js",
     "static/js/277.3935dbf0.chunk.js": "/fs-84-react-node-SonGlad/static/js/277.3935dbf0.chunk.js",
     "static/js/788.94b1ef4d.chunk.js": "/fs-84-react-node-SonGlad/static/js/788.94b1ef4d.chunk.js",
     "static/js/859.ce1cfedf.chunk.js": "/fs-84-react-node-SonGlad/static/js/859.ce1cfedf.chunk.js",
@@ -60,7 +60,7 @@
     "static/media/add-modal.svg": "/fs-84-react-node-SonGlad/static/media/add-modal.9569066a7c71bf08ffe95131a13966e2.svg",
     "static/media/ellipse.svg": "/fs-84-react-node-SonGlad/static/media/ellipse.0c3b26195344141055a912afab60b9a7.svg",
     "main.1a24fdc4.css.map": "/fs-84-react-node-SonGlad/static/css/main.1a24fdc4.css.map",
-    "main.f42ea014.js.map": "/fs-84-react-node-SonGlad/static/js/main.f42ea014.js.map",
+    "main.b1cd98c1.js.map": "/fs-84-react-node-SonGlad/static/js/main.b1cd98c1.js.map",
     "277.3935dbf0.chunk.js.map": "/fs-84-react-node-SonGlad/static/js/277.3935dbf0.chunk.js.map",
     "788.94b1ef4d.chunk.js.map": "/fs-84-react-node-SonGlad/static/js/788.94b1ef4d.chunk.js.map",
     "859.ce1cfedf.chunk.js.map": "/fs-84-react-node-SonGlad/static/js/859.ce1cfedf.chunk.js.map",
@@ -76,6 +76,6 @@
   },
   "entrypoints": [
     "static/css/main.1a24fdc4.css",
-    "static/js/main.f42ea014.js"
+    "static/js/main.b1cd98c1.js"
   ]
 }
