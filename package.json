@@ -2,7 +2,7 @@
   "name": "health_en",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SonGlad.github.io/HEALTH_EN/",
+  "homepage": "https://GoitStudentsWorks.github.io/fs-84-react-node-SonGlad/",
   "dependencies": {
     "@babel/plugin-transform-private-property-in-object": "^7.23.4",
     "@reduxjs/toolkit": "^2.0.1",
